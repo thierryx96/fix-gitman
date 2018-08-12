@@ -5,7 +5,8 @@ const titleCase = text => {
 //   Insert function
 
 }
-titleCase(camelCase)
+
+console.log(titleCase(camelCase))
 
 // 2) Title-to-Camel
 // Convert the Title Case back to camelCase
@@ -14,4 +15,5 @@ const newCamel = text => {
 //   Insert function
   
 }
-newCamel(newTitle)
+
+console.log(newCamel(newTitle))
