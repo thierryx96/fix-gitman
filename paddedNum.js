@@ -7,4 +7,4 @@ const paddedNum = text => {
 //   Insert function
 
 }
-paddedNum(nums)
+console.log(paddedNum(nums))
