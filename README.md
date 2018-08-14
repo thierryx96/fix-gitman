@@ -5,10 +5,11 @@ Fix up / implement missing parts of code, the repository owner will choose then 
 # How to proceed :
 
 1. Got to gitman.co, register with the given code
-2. Choose a bounty to fix, the bounty match the files from this repositories
+2. Choose a bounty to fix, the bounty match the files from this repositories.
 3. Choose `Start work`, this will fork this repository for you, and create a branch where you can get started.
-4. When the forking + branching has been completed, you can choose `view branch on Github` on the bounty, this will open the brnach github and you can start coding directly on it.
-4. Once the work is complete then submit your solution from gitman using `Finish work`. Alternatively you can create the PR from Github.
+4. Fix the issue or implement the missing parts, then commit whatever is needed on this current branch.
+5. Once everything is completed, you can create the PR from gitman using `Finish work`. Alternatively you can create the PR from Github.
+
 
 Repeat for each exercise!
 
