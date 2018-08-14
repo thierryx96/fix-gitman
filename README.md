@@ -10,6 +10,7 @@ Fix up / implement missing parts of code, the repository owner will choose then 
 4. Fix the issue or implement the missing parts, then commit whatever is needed on this current branch.
 5. Once everything is completed, you can create the PR from gitman using `Finish work`. Alternatively you can create the PR from Github.
 
+
 Repeat for each exercise!
 
 # Hints:
