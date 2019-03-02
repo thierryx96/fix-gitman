@@ -18,6 +18,6 @@ Repeat for each exercise!
 - You must only use github to write and commit.
 - Use only the branch that has been created for you to implement your solution.
 - Send one PR per file.
-- Using codepen.io or other editor online can help checking it actually works as expected.
+- Using codepen.io or other editor online can help checking it actually works as expected...
 
 
