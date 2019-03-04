@@ -5,7 +5,7 @@
 const nums = ['2', '4', '25', '10', '3']
 const paddedNum = text => {
   for (i = 0; i < text.length; i++) {
-    if (text[i].length === 1) {
+    if (text[i].length === 02) {
       text[i] = '0' + text[i]
     }
   }
